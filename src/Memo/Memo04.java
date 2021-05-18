@@ -2,6 +2,9 @@ package Memo;
 
 public class Memo04 {
 /*
+ * Object(객체형): FILO, LIFO, FIFO
+ * stack 형
+ * if는 글자 하나하나 비교함.
  * a +=1
  * a = a+1
  * 는 다름
