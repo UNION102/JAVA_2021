@@ -15,6 +15,7 @@ public class Memo {
  * 적색 코드: 예약어
  * *연산자 앞 뒤는 띄어놓는 것이 국룰
  * casting: 작은 자료형에 큰 자료를 잘라 넣는 것
- * 
+ * "design pattern"
+ * OOAD(객체지향분석설계)
  */
 }
